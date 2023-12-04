@@ -10,4 +10,10 @@
 將程式碼前次四行的變數填入NTU COOL的帳密（僅用來登入NTU COOL）
 、測驗網址、音檔路徑
 
+<h3>先前設定</h3>
 
+須先pip install selenium
+
+須在同個資料夾內安裝ChromeDriver(下載網址：https://chromedriver.chromium.org/downloads)
+將資料夾名稱設為driver
+![截圖 2023-12-04 下午1 49 53](https://github.com/JoloanTsai/NTU-COOL-test-monitor/assets/134209558/0a09d3f6-ec0d-40a2-bab6-a50737e415db)
