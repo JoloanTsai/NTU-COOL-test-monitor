@@ -51,7 +51,7 @@ while need_stop != True:
 
     if len(tests) != init_tests_num : break
 
-    time.sleep(12)
+    time.sleep(12)  # 重新整理延遲時間
     driver.refresh()
     time.sleep(1)
 
