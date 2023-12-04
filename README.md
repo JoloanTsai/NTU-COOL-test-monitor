@@ -1,6 +1,13 @@
-# NTU-COOL-test-monitor
+# NTU-COOL 線上測驗提醒
 
 
-利用selenium爬取 NTU COOL上的測驗，數量增加時將播放指定路經的音檔
+利用selenium爬取 NTU COOL上的測驗
+一開始會先讀取指定網址的測驗數量，之後會每隔13秒重新爬取一次
+當測驗數量茲增加時會播放指定路經的音檔
 
-<h1>test</h1>
+<h3>使用方法</h3>
+
+將程式碼前次四行的變數填入NTU COOL的帳密（僅用來登入NTU COOL）
+、測驗網址、音檔路徑
+
+
