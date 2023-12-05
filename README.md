@@ -2,7 +2,7 @@
 
 
 利用selenium爬取 NTU COOL上的測驗
-一開始會先讀取指定網址的測驗數量，之後會每隔13秒（可自行更改）重新爬取一次，當測驗數量增加時會播放指定路經的音檔
+一開始會先讀取指定網址的測驗數量，之後會每隔13秒（可自行更改）重新爬取一次<br/>當測驗數量增加時會播放指定路經的音檔
 
 <h3>使用方法</h3>
 
@@ -11,7 +11,7 @@
 
 <h3>先前設定</h3>
 
-須先pip install selenium
+須先pip install selenium 、 pip install pygame
 
 須在同個資料夾內安裝ChromeDriver(下載網址：https://chromedriver.chromium.org/downloads)
 將資料夾名稱設為driver
