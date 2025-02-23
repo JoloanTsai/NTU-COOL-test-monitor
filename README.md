@@ -12,7 +12,7 @@
 
 <h3>先前設定</h3>
 
-須先pip install selenium 、 pip install pygame
+須先`pip install selenium pygame`
 
 須在同個資料夾內安裝ChromeDriver(下載網址：https://chromedriver.chromium.org/downloads)
 將資料夾名稱設為driver
